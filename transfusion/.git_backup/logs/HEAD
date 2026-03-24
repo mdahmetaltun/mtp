@@ -1,0 +1,13 @@
+0000000000000000000000000000000000000000 183b177b8e74f7a738c1623755a277999b9f0744 Ahmet Altun <mdahmetaltun@Ahmets-Mac-mini.hgw.local> 1772494847 +0300	commit (initial): Initial commit for transfusion app
+183b177b8e74f7a738c1623755a277999b9f0744 657d1c77b75f784e481afe78e75ca9a9fc89b465 Ahmet Altun <mdahmetaltun@Ahmets-Mac-mini.hgw.local> 1772495063 +0300	commit: feat: event sourcing models and payloads
+657d1c77b75f784e481afe78e75ca9a9fc89b465 ba48ee0aa3395bb7935079cd5dd347d305ccde91 Ahmet Altun <mdahmetaltun@Ahmets-Mac-mini.hgw.local> 1772495414 +0300	commit: feat: login/signup ui and profile screen
+ba48ee0aa3395bb7935079cd5dd347d305ccde91 a7cff37aa0d2c8296f83e1d412d26df7a4bca56f Ahmet Altun <mdahmetaltun@Ahmets-Mac-mini.hgw.local> 1772495962 +0300	commit: feat: light theme and toggle switch
+a7cff37aa0d2c8296f83e1d412d26df7a4bca56f fcee7b752195032a454f8e4cf174805e98d5393f Ahmet Altun <mdahmetaltun@Ahmets-Mac-mini.hgw.local> 1772496198 +0300	commit: style: fix ui contrast and add icons to assessment screen
+fcee7b752195032a454f8e4cf174805e98d5393f fcee7b752195032a454f8e4cf174805e98d5393f Ahmet Altun <mdahmetaltun@Ahmets-Mac-mini.hgw.local> 1772497391 +0300	checkout: moving from main to prototip-1
+fcee7b752195032a454f8e4cf174805e98d5393f 524f218771c26d9fc5e4a769f38661c589489d98 Ahmet Altun <mdahmetaltun@Ahmets-Mac-mini.hgw.local> 1772497407 +0300	commit: Add back button to risk assessment screen and update UI
+524f218771c26d9fc5e4a769f38661c589489d98 e626f8a27b518f0447f12429adc8249992fc49b7 Ahmet Altun <mdahmetaltun@Ahmets-Mac-mini.hgw.local> 1772499287 +0300	commit: Update app logo with red-background version and add back buttons
+e626f8a27b518f0447f12429adc8249992fc49b7 612019870a0537be57b5d36f5a8c1128ff58bef4 Ahmet Altun <mdahmetaltun@Ahmets-Mac-mini.hgw.local> 1772499763 +0300	commit: Add iOS and Android gallery permissions for profile photo upload
+612019870a0537be57b5d36f5a8c1128ff58bef4 c72c27a6543fdfda9ff5ceae4da6180660489124 Ahmet Altun <mdahmetaltun@Ahmets-Mac-mini.hgw.local> 1772499850 +0300	commit: Improve profile photo icon clickability and feedback
+c72c27a6543fdfda9ff5ceae4da6180660489124 3640c67b068ce0b8c5fd62fb564a9d226845014d Ahmet Altun <mdahmetaltun@Ahmets-Mac-mini.hgw.local> 1772500782 +0300	commit: Update Podfile with architecture compatibility fixes for iOS
+3640c67b068ce0b8c5fd62fb564a9d226845014d 3640c67b068ce0b8c5fd62fb564a9d226845014d Ahmet Altun <mdahmetaltun@Ahmets-Mac-mini.hgw.local> 1774388146 +0300	checkout: moving from prototip-1 to final_before_presentation
+3640c67b068ce0b8c5fd62fb564a9d226845014d 4eb12bb5d4de30bbb1fa3f7667a9629750b1131c Ahmet Altun <mdahmetaltun@Ahmets-Mac-mini.hgw.local> 1774388146 +0300	commit: Merge web panel into transfusion repository as final_before_presentation

@@ -1,0 +1,5 @@
+0000000000000000000000000000000000000000 183b177b8e74f7a738c1623755a277999b9f0744 Ahmet Altun <mdahmetaltun@Ahmets-Mac-mini.hgw.local> 1772494847 +0300	commit (initial): Initial commit for transfusion app
+183b177b8e74f7a738c1623755a277999b9f0744 657d1c77b75f784e481afe78e75ca9a9fc89b465 Ahmet Altun <mdahmetaltun@Ahmets-Mac-mini.hgw.local> 1772495063 +0300	commit: feat: event sourcing models and payloads
+657d1c77b75f784e481afe78e75ca9a9fc89b465 ba48ee0aa3395bb7935079cd5dd347d305ccde91 Ahmet Altun <mdahmetaltun@Ahmets-Mac-mini.hgw.local> 1772495414 +0300	commit: feat: login/signup ui and profile screen
+ba48ee0aa3395bb7935079cd5dd347d305ccde91 a7cff37aa0d2c8296f83e1d412d26df7a4bca56f Ahmet Altun <mdahmetaltun@Ahmets-Mac-mini.hgw.local> 1772495962 +0300	commit: feat: light theme and toggle switch
+a7cff37aa0d2c8296f83e1d412d26df7a4bca56f fcee7b752195032a454f8e4cf174805e98d5393f Ahmet Altun <mdahmetaltun@Ahmets-Mac-mini.hgw.local> 1772496198 +0300	commit: style: fix ui contrast and add icons to assessment screen

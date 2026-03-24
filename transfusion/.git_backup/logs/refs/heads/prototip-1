@@ -1,0 +1,6 @@
+0000000000000000000000000000000000000000 fcee7b752195032a454f8e4cf174805e98d5393f Ahmet Altun <mdahmetaltun@Ahmets-Mac-mini.hgw.local> 1772497391 +0300	branch: Created from HEAD
+fcee7b752195032a454f8e4cf174805e98d5393f 524f218771c26d9fc5e4a769f38661c589489d98 Ahmet Altun <mdahmetaltun@Ahmets-Mac-mini.hgw.local> 1772497407 +0300	commit: Add back button to risk assessment screen and update UI
+524f218771c26d9fc5e4a769f38661c589489d98 e626f8a27b518f0447f12429adc8249992fc49b7 Ahmet Altun <mdahmetaltun@Ahmets-Mac-mini.hgw.local> 1772499287 +0300	commit: Update app logo with red-background version and add back buttons
+e626f8a27b518f0447f12429adc8249992fc49b7 612019870a0537be57b5d36f5a8c1128ff58bef4 Ahmet Altun <mdahmetaltun@Ahmets-Mac-mini.hgw.local> 1772499763 +0300	commit: Add iOS and Android gallery permissions for profile photo upload
+612019870a0537be57b5d36f5a8c1128ff58bef4 c72c27a6543fdfda9ff5ceae4da6180660489124 Ahmet Altun <mdahmetaltun@Ahmets-Mac-mini.hgw.local> 1772499850 +0300	commit: Improve profile photo icon clickability and feedback
+c72c27a6543fdfda9ff5ceae4da6180660489124 3640c67b068ce0b8c5fd62fb564a9d226845014d Ahmet Altun <mdahmetaltun@Ahmets-Mac-mini.hgw.local> 1772500782 +0300	commit: Update Podfile with architecture compatibility fixes for iOS
